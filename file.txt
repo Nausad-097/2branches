@@ -1,5 +1,9 @@
-Version 1
-change
-master branch
-try resets
-SilverSky Technology
+Git is distributed veersion control system used to build small
+and large projects with high speed and efficiency. It is developed 
+to cordinate the work among the developers.It allow us to track and 
+work together with our team members at the same time.
+It has some commands like
+init  to create an empty repo
+config to configure git a/c
+clone to save repo  in our local mechine 
+
